@@ -6,6 +6,7 @@ Recommended pattern:
 
 ```text
 readings/
+├── README.md
 ├── week-01.md
 ├── week-02.md
 └── week-03.md

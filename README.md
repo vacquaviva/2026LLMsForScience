@@ -3,19 +3,24 @@
 This repository collects course materials for the class:
 
 - Syllabus and course policies
+- Course schedule
 - Weekly reading lists
 - Lecture slides
 - Public links and references
+- Assignments
 
 ## Repository Layout
 
 ```text
 .
+├── schedule.md
 ├── syllabus/
 │   └── syllabus.md
 ├── readings/
 │   └── README.md
 ├── slides/
+│   └── README.md
+├── assignments/
 │   └── README.md
 └── resources/
     └── sharing-guidelines.md
@@ -23,7 +28,7 @@ This repository collects course materials for the class:
 
 ## For Students
 
-Start with the syllabus, then use the readings and slides folders for weekly materials.
+Start with the syllabus and schedule, then use the readings and slides folders for weekly materials.
 
 ## For Instructors
 
