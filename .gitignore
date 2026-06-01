@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.bak
+
+# Local notes
+private-notes/
