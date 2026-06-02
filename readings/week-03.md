@@ -1,4 +1,4 @@
-# Week 02 Readings
+# Week 03 Readings
 
 ## On assessing performance of LLMs for scientific benchmarks
 

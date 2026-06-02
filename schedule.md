@@ -4,7 +4,7 @@
 | --- | --- | --- | --- | --- |
 | 1 | Introduction and setup; history of LLMs |  | [Slides](slides/LLMs_Spring2026_Jan26.pdf) |  |
 | 2 | Principles of prompt engineering; environmental impact; principles of responsible AI | [Readings](readings/week-02.md) | [Slides](slides/LLMs_Feb2.pdf) | [Assignment](assignments/week02.md) |
-| 3 | Plots, tables, and data manipulation; Responsible AI | [Readings](readings/week-03.md) | [Slides](slides/LLMs_Feb9.pdf) | [Assignment](assignments/week03.md) |
+| 3 | Model comparison; Responsible AI | [Readings](readings/week-03.md) | [Slides](slides/LLMs_Feb9.pdf) | [Assignment](assignments/week03.md) |
 | 4a | Using LLMs via APIs and the command line | [Readings](readings/week-04a.md) | [Slides](slides/week-04a.pdf) | [Assignment](assignments/week-04a.md) |
 | 4b | Coding I: debugging and improving code | [Readings](readings/week-04b.md) | [Slides](slides/week-04b.pdf) | [Assignment](assignments/week-04b.md) |
 | 5 | Guest lecture: [Jerry Lin](https://jerrylin96.github.io/) (agentic AI) + Coding II: research-driven coding | [Readings](readings/week-05.md) | [Slides](slides/week-05.pdf) | [Assignment](assignments/week-05.md) |
