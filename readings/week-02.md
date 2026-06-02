@@ -21,6 +21,24 @@ https://arxiv.org/pdf/2505.09598
 
 https://app.powerbi.com/view?r=eyJrIjoiZjVmOTI0MmMtY2U2Mi00ZTE2LTk2MGYtY2ZjNDMzODZkMjlmIiwidCI6IjQyNmQyYThkLTljY2QtNDI1NS04OTNkLTA2ODZhMzJjMTY4ZCIsImMiOjF9
 
+## On responsible AI
+
+Talk from Matt Lease (CosmicAI seminar) 2/4/26
+
+Responsible AI for Science: Benefits and Risks 
+
+Matt’s [video](https://www.youtube.com/watch?v=YEADYNlMD0E) and [slides](https://urldefense.com/v3/__https://utexas.box.com/v/Lease-responsible-ai4sci-Feb26__;!!Lty91_B-8v6fjw!QrAOpHdtvBNfguykZE8M8uIhXa6e4RDREYr9POjAJiIs4GBma5vrZXouVX76PuujchqSduYWmhg4Ajke1S90gdc$)
+
+On using AI systems ethically:
+
+The fallacy of AI functionality: 
+
+https://dl.acm.org/doi/10.1145/3531146.3533158
+
+And also my own paper, if you are curious ;) 
+Ethics in climate AI: From theory to practice
+
+https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000465
 
 
 
