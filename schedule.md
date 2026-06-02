@@ -2,8 +2,8 @@
 
 | Week | Topic | Readings | Slides | Assignments |
 | --- | --- | --- | --- | --- |
-| 1 | Introduction and setup; history of LLMs | [Readings](readings/week-01.md) | [Slides](slides/week-01.pdf) | [Assignment](assignments/week-01.md) |
-| 2 | Principles of prompt engineering; environmental impact; principles of responsible AI | [Readings](readings/week-02.md) | [Slides](slides/week-02.pdf) | [Assignment](assignments/week-02.md) |
+| 1 | Introduction and setup; history of LLMs |  | [Slides](slides/LLMs_Spring2026_Jan26.pdf) |  |
+| 2 | Principles of prompt engineering; environmental impact; principles of responsible AI | [Readings](readings/week-02.md) | [Slides](slides/LLMs_Feb2.pdf) | [Assignment](assignments/week02.md) |
 | 3 | Plots, tables, and data manipulation | [Readings](readings/week-03.md) | [Slides](slides/week-03.pdf) | [Assignment](assignments/week-03.md) |
 | 4a | Using LLMs via APIs and the command line | [Readings](readings/week-04a.md) | [Slides](slides/week-04a.pdf) | [Assignment](assignments/week-04a.md) |
 | 4b | Coding I: debugging and improving code | [Readings](readings/week-04b.md) | [Slides](slides/week-04b.pdf) | [Assignment](assignments/week-04b.md) |
