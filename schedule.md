@@ -5,9 +5,8 @@
 | 1 | Introduction and setup; history of LLMs |  | [Slides](slides/LLMs_Spring2026_Jan26.pdf) |  |
 | 2 | Principles of prompt engineering; environmental impact; principles of responsible AI | [Readings](readings/week-02.md) | [Slides](slides/LLMs_Feb2.pdf) | [Assignment](assignments/week02.md) |
 | 3 | Tasks in data manipulation and visualization; Model comparison | [Readings](readings/week-03.md) | [Slides](slides/LLMs_Feb9.pdf) | [Assignment](assignments/week03.md) |
-| 4a | Using LLMs via APIs and the command line | [Readings](readings/week-04a.md) | [Slides](slides/week-04a.pdf) | [Assignment](assignments/week-04a.md) |
-| 4b | Coding I: debugging and improving code | [Readings](readings/week-04b.md) | [Slides](slides/week-04b.pdf) | [Assignment](assignments/week-04b.md) |
-| 5 | Guest lecture: [Jerry Lin](https://jerrylin96.github.io/) (agentic AI) + Coding II: research-driven coding | [Readings](readings/week-05.md) | [Slides](slides/week-05.pdf) | [Assignment](assignments/week-05.md) |
+| 4 | Using LLMs via APIs and the command line | | [Slides1](slides/LLMs_Feb18.pdf)[Slides2](slides/Using_LLMs_via_API_slides_draft_2.pdf) | [Assignment](assignments/week04.md) |
+| 5 | Guest lecture: [Jerry Lin](https://jerrylin96.github.io/) Agentic AI + Coding II: research-driven coding | [Readings](readings/week-05.md) | [Slides and Demo](https://github.com/jerrylin96/MNIST_JAX_demo) | [Assignment](assignments/week05.md) |
 | 6 | Research-driven coding wrap up and intro to retrieval-augmented generation | [Readings](readings/week-06.md) | [Slides](slides/week-06.pdf) | [Assignment](assignments/week-06.md) |
 | 7a | Tools for literature search | [Readings](readings/week-07a.md) | [Slides](slides/week-07a.pdf) | [Assignment](assignments/week-07a.md) |
 | 7b | Guest lecture: [Kartheik Iyer](https://kartheikiyer.github.io/) - AI agents and workflow automation | [Readings](readings/week-07b.md) | [Slides](slides/week-07b.pdf) | [Assignment](assignments/week-07b.md) |
