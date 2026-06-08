@@ -2,7 +2,7 @@
 
 This repository collects course materials for the class, including the [syllabus](syllabus/syllabus.md), the course schedule, weekly reading lists, lecture slides, and assignments.
 
-I am grateful to the Physics and Earth and Environmental Sciences Departments in CUNY, for letting me run wild with this idea, and to the Simons Foundation for financial support.
+I am grateful to the Physics and Earth and Environmental Sciences Departments at the CUNY Graduate Center for letting me run wild with this idea, to the Simons Foundation for financial support, and most of all to the students for being awesome learning companions.
 
 ## Course Schedule
 
