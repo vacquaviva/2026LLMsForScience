@@ -12,8 +12,8 @@
 | 7b | Guest lecture: [Kartheik Iyer](https://kartheikiyer.github.io/) - AI agents and workflow automation | | [Slides](https://docs.google.com/presentation/d/1gebLDbsMTEd0BGkNG7pX5weTEBMFFBHa05Jm2plx_DU/edit?slide=id.g39627c3d4a8_0_1090#slide=id.g39627c3d4a8_0_1090) |  |
 | 8a | Creativity: humans vs. LLMs (discussion) | [Readings](readings/week-08a.md) |  |  |
 | 8b | Scientific writing and paper summarization |  | [Slides](slides/AI_for_Writing_Mar25.pdf) | [Assignment 1](assignments/week08_1.md)  [Assignment 2](assignments/week08_2.md)|
-| 9a | Using AI in proposals, papers, and reviews: state of the art and ideas | [Readings](readings/week-09a.md) | [Slides](slides/week-09a.pdf) | [Assignment](assignments/week-09a.md) |
-| 10 | Presentations and scientific communication: images, infographics, etc. | [Readings](readings/week-10.md) | [Slides](slides/week-10.pdf) | [Assignment](assignments/week-10.md) |
+| 9 | Using AI in proposals, papers, and reviews: state of the art and ideas | [Readings](readings/week-09.md) | [Slides](slides/AI_for_Writing_Policies_Mar30.pdf) | |
+| 10 | Presentations and scientific communication: images, infographics, etc. |  | [Slides](slides/Presentations_April13.pdf) | [Assignment](assignments/week10.md) |
 | 11 | Learning a new topic + improving research ideas with LLM assistance | [Readings](readings/week-11.md) | [Slides](slides/week-11.pdf) | [Assignment](assignments/week-11.md) |
 | 12a | Guest lecture: [Paco Villaescusa](https://franciscovillaescusa.github.io/), end-to-end research workflow | [Readings](readings/week-12a.md) | [Slides](slides/week-12a.pdf) | [Assignment](assignments/week-12a.md) |
 | 12b | Guest lecture: [Jared Donohue](https://jareddonohue.com/), using LLMs for a science project + brainstorming final projects | [Readings](readings/week-12b.md) | [Slides](slides/week-12b.pdf) | [Assignment](assignments/week-12b.md) |
