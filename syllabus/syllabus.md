@@ -3,7 +3,7 @@
 ## Course Information
 
 - Course: Large Language Models for Science, EES 79904-01 and PHYS 85200-04
-- Instructor: [Viviana Acquaviva](drivianaacquaviva.com) (Professor, City Tech)
+- Instructor: [Viviana Acquaviva](www.drivianaacquaviva.com) (Professor, City Tech)
 - Term: Spring 2026
 - Meeting time: M-W 11.45am - 1.45pm
 - Location: Room 4419, CUNY Graduate Center
