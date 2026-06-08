@@ -10,8 +10,8 @@
 | 6 | Research-driven coding wrap up and intro to retrieval-augmented generation | [Readings](readings/week-06.md) | [Slides1](slides/CodingWrapUp_IntroRAG_Mar9.pdf)  [Slides2](slides/RAGpractice_Mar11.pdf) | [Assignments](assignments/week06.md) [DemoClaude](files/PaperQA2_demo_Claude_students.ipynb) [DemoGPT](files/PaperQA2_demo_students.ipynb)|
 | 7a | Tools for literature search |  | [Slides](slides/LiteratureSearch_Mar16.pdf) | [Assignment](assignments/week07.md) |
 | 7b | Guest lecture: [Kartheik Iyer](https://kartheikiyer.github.io/) - AI agents and workflow automation | | [Slides](https://docs.google.com/presentation/d/1gebLDbsMTEd0BGkNG7pX5weTEBMFFBHa05Jm2plx_DU/edit?slide=id.g39627c3d4a8_0_1090#slide=id.g39627c3d4a8_0_1090) |  |
-| 8a | Creativity: humans vs. LLMs | [Readings](readings/week-08a.md) | [Slides](slides/week-08a.pdf) | [Assignment](assignments/week-08a.md) |
-| 8b | Scientific writing and paper summarization | [Readings](readings/week-08b.md) | [Slides](slides/week-08b.pdf) | [Assignment](assignments/week-08b.md) |
+| 8a | Creativity: humans vs. LLMs (discussion) | [Readings](readings/week-08a.md) |  |  |
+| 8b | Scientific writing and paper summarization |  | [Slides](slides/AI_for_Writing_Mar25.pdf) | [Assignment 1](assignments/week08_1.md)  [Assignment 2](assignments/week08_2.md)|
 | 9a | Using AI in proposals, papers, and reviews: state of the art and ideas | [Readings](readings/week-09a.md) | [Slides](slides/week-09a.pdf) | [Assignment](assignments/week-09a.md) |
 | 10 | Presentations and scientific communication: images, infographics, etc. | [Readings](readings/week-10.md) | [Slides](slides/week-10.pdf) | [Assignment](assignments/week-10.md) |
 | 11 | Learning a new topic + improving research ideas with LLM assistance | [Readings](readings/week-11.md) | [Slides](slides/week-11.pdf) | [Assignment](assignments/week-11.md) |
@@ -21,4 +21,4 @@
 | 13b | Guest lecture: [Zana Bucinca](https://zbucinca.github.io/), human-centric AI + final project check-ins | [Readings](readings/week-13b.md) | [Slides](slides/week-13b.pdf) | [Assignment](assignments/week-13b.md) |
 | 14a | Guest lecture: [Elisa Cunial](https://growing-orbits.com/elisa-cunial/), AI in relationships + Eataly ice-cream trip, weather permitting | [Readings](readings/week-14a.md) | [Slides](slides/week-14a.pdf) | [Assignment](assignments/week-14a.md) |
 | 14b | Guest lecture: [Dhruv Chakraborty](https://www.linkedin.com/in/dhruv-chakraborty/), AI safety + final project check-ins | [Readings](readings/week-14b.md) | [Slides](slides/week-14b.pdf) | [Assignment](assignments/week-14b.md) |
-| 15 | Final project presentations | [Readings](readings/week-15.md) | [Slides](slides/week-15.pdf) | [Assignment](assignments/week-15.md) |
+| 15 | Final project presentations |  |  |  |
