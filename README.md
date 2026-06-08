@@ -22,7 +22,7 @@ I am grateful to the Physics and Earth and Environmental Sciences Departments in
 | 10 | Presentations and scientific communication: images, infographics, etc. |  | [Slides](slides/Presentations_April13.pdf) | [Assignment](assignments/week10.md) |
 | 11 | Learning a new topic + improving research ideas with LLM assistance | [Readings](readings/week-11.md) | [Slides 1](slides/Learning_April20.pdf)  [Slides 2](slides/Learning_April22.pdf)  |  |
 | 12a | Guest lecture: [Paco Villaescusa](https://franciscovillaescusa.github.io/), Denario and end-to-end research workflow |  | [Slides] |  |
-| 12b | Guest lecture: [Jared Donohue](https://jareddonohue.com/), using LLMs for a science project + brainstorming final projects | | [Slides](slides//Donohue-LLMs-for-Science-Guest-Lecture.pdf) | [Final Project Information](assignments/fp.md) |
+| 12b | Guest lecture: [Jared Donohue](https://jareddonohue.com/), using LLMs for a science project + brainstorming final projects | | [Slides](https://jareddonohue.com/res/Donohue-LLMs-for-Science-Guest-Lecture.pdf) | [Final Project Information](assignments/fp.md) |
 | 13a | Guest lecture: [Boris Bolliet](https://borisbolliet.github.io/), autonomous research agents + final project pitches |  | [Slides](https://drive.google.com/file/d/1j-DCJU0KIDQZAywmYDxo33K_Pft6fb3g/view) |  |
 | 13b | Guest lecture: [Zana Bucinca](https://zbucinca.github.io/), human-centric AI + final project check-ins |  | [Slides](slides/05-06-26-CUNY-Bucinca.pdf) |  |
 | 14a | Guest lecture: [Elisa Cunial](https://growing-orbits.com/elisa-cunial/), AI in relationships + Eataly ice-cream trip, weather permitting |  |  |  |
