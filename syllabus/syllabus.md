@@ -3,7 +3,7 @@
 ## Course Information
 
 - Course: Large Language Models for Science, EES 79904-01 and PHYS 85200-04
-- Instructor: Viviana Acquaviva (Professor, City Tech)
+- Instructor: [Viviana Acquaviva](drivianaacquaviva.com) (Professor, City Tech)
 - Term: Spring 2026
 - Meeting time: M-W 11.45am - 1.45pm
 - Location: Room 4419, CUNY Graduate Center
@@ -52,9 +52,11 @@ Students enrolling in this course are expected to have:
 
 • Experience with scientific computing (Python preferred). Knowing machine learning
 fundamentals may help (honestly, I don't know how much) but is certainly not required.
+
 • Active involvement in scientific research, preferably at Ph.D. level; the course will be
 mostly useful if you can tailor the content to your ongoing research, and you will be
 expected to bring your research problems into the classroom.
+
 • Curiosity, independence, self-motivation, and a collaborative spirit, as the success of
 the course relies on active experimentation, constructive critique of your own work and
 that of others.
@@ -84,4 +86,5 @@ back, open source and small models should have had their own dedicated week and 
 plan for this if I teach a similar class again.
 
 • Open-Source Models: accessibility, reproducibility, tradeoffs.
+
 • Interpretability: conceptual and technical.
