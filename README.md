@@ -1,8 +1,8 @@
-## Large Language Models for Science, CUNY Graduate Center, Spring 2026.
+## Large Language Models for Science, CUNY Graduate Center, Spring 2026
 
-This repository collects course materials for the class, including the [syllabus](syllabus/syllabus.md), the class schedule, weekly reading lists, lecture slides, and assignments.
+This repository collects course materials for the class, including the [syllabus](syllabus/syllabus.md), the course schedule, weekly reading lists, lecture slides, and assignments.
 
-# Course Schedule
+## Course Schedule
 
 | Week | Topic | Readings | Slides | Assignments |
 | --- | --- | --- | --- | --- |
