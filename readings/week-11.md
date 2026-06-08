@@ -1,4 +1,4 @@
-# Week 09 Readings
+# Week 11 Readings
 
 ## On learning from Gen AI tools and end-to-end research systems:
 
