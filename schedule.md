@@ -15,10 +15,10 @@
 | 9 | Using AI in proposals, papers, and reviews: state of the art and ideas | [Readings](readings/week-09.md) | [Slides](slides/AI_for_Writing_Policies_Mar30.pdf) | |
 | 10 | Presentations and scientific communication: images, infographics, etc. |  | [Slides](slides/Presentations_April13.pdf) | [Assignment](assignments/week10.md) |
 | 11 | Learning a new topic + improving research ideas with LLM assistance | [Readings](readings/week-11.md) | [Slides 1](slides/Learning_April20.pdf)  [Slides 2](slides/Learning_April22.pdf)  |  |
-| 12a | Guest lecture: [Paco Villaescusa](https://franciscovillaescusa.github.io/), end-to-end research workflow | [Readings](readings/week-12a.md) | [Slides](slides/week-12a.pdf) | [Assignment](assignments/week-12a.md) |
-| 12b | Guest lecture: [Jared Donohue](https://jareddonohue.com/), using LLMs for a science project + brainstorming final projects | [Readings](readings/week-12b.md) | [Slides](slides/week-12b.pdf) | [Assignment](assignments/week-12b.md) |
-| 13a | Guest lecture: [Boris Bolliet](https://borisbolliet.github.io/), autonomous research agents + final project pitches | [Readings](readings/week-13a.md) | [Slides](slides/week-13a.pdf) | [Assignment](assignments/week-13a.md) |
-| 13b | Guest lecture: [Zana Bucinca](https://zbucinca.github.io/), human-centric AI + final project check-ins | [Readings](readings/week-13b.md) | [Slides](slides/week-13b.pdf) | [Assignment](assignments/week-13b.md) |
-| 14a | Guest lecture: [Elisa Cunial](https://growing-orbits.com/elisa-cunial/), AI in relationships + Eataly ice-cream trip, weather permitting | [Readings](readings/week-14a.md) | [Slides](slides/week-14a.pdf) | [Assignment](assignments/week-14a.md) |
-| 14b | Guest lecture: [Dhruv Chakraborty](https://www.linkedin.com/in/dhruv-chakraborty/), AI safety + final project check-ins | [Readings](readings/week-14b.md) | [Slides](slides/week-14b.pdf) | [Assignment](assignments/week-14b.md) |
+| 12a | Guest lecture: [Paco Villaescusa](https://franciscovillaescusa.github.io/), Denario and end-to-end research workflow |  | [Slides] |  |
+| 12b | Guest lecture: [Jared Donohue](https://jareddonohue.com/), using LLMs for a science project + brainstorming final projects | [Readings](readings/week-12b.md) | [Slides](slides//Donohue-LLMs-for-Science-Guest-Lecture.pdf) | [Final Project Information](assignments/fp.md) |
+| 13a | Guest lecture: [Boris Bolliet](https://borisbolliet.github.io/), autonomous research agents + final project pitches |  | [Slides](https://drive.google.com/file/d/1j-DCJU0KIDQZAywmYDxo33K_Pft6fb3g/view) |  |
+| 13b | Guest lecture: [Zana Bucinca](https://zbucinca.github.io/), human-centric AI + final project check-ins |  | [Slides](slides/05-06-26-CUNY-Bucinca.pdf) |  |
+| 14a | Guest lecture: [Elisa Cunial](https://growing-orbits.com/elisa-cunial/), AI in relationships + Eataly ice-cream trip, weather permitting |  |  |  |
+| 14b | Guest lecture: [Dhruv Chakraborty](https://www.linkedin.com/in/dhruv-chakraborty/), AI safety + final project check-ins |  | [Slides](https://docs.google.com/presentation/d/1su1X8PtgbrA0WC4dH1XR-jaOAuWF1JcQ57BcQtL7LZA/edit?slide=id.p#slide=id.p) |  |
 | 15 | Final project presentations |  |  |  |

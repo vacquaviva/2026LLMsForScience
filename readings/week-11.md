@@ -1,7 +1,6 @@
 # Week 09 Readings
 
-On learning from Gen AI tools and end-to-end research systems:
-
+## On learning from Gen AI tools and end-to-end research systems:
 
 Scientists invented a fake disease.  AI told people it was real
 
@@ -27,7 +26,7 @@ https://www.anthropic.com/research/vibe-physics
 
 _____ 
 
-Additional AI scientist systems and opinion/position papers:
+## Additional AI scientist systems and opinion/position papers:
 
 AI-Researcher: Autonomous Scientific Innovation
 https://arxiv.org/abs/2505.18705
