@@ -12,7 +12,7 @@
 ## Course Description
 
 This course provides a structured, practice-based introduction to the emerging ecosystem of
-generative AI tools—particularly those based on Large Language Models (LLMs)—and their
+generative AI tools, particularly those based on Large Language Models (LLMs), and their
 potential to enhance scientific workflows. We will use one or more LLM tools each week to carry
 out a specific scientific task, compare the performance of different tools and compare their output
 to human-generated work, and reflect on what was valuable or unhelpful. In the final project, each
