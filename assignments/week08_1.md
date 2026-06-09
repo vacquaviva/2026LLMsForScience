@@ -1,4 +1,4 @@
-# Assignment 1: Writing Experience 
+# Assignment: Writing Experience 
 
 We will consider the four most controversial uses of AI in writing.
 

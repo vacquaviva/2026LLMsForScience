@@ -13,7 +13,7 @@ could ask in order to evaluate the software.
 
 ## Task
 
-Hun your PaperQA code and derive answers for your questions (keep it simple, if needed, in order to be able to index your sources).
+Run your PaperQA code and derive answers for your questions (keep it simple, if needed, in order to be able to index your sources).
 
 Run exactly the same query (add same sources, ask same question) using NotebookLLM (Google) and your favorite chatbot (but add the sources as files).
 

@@ -11,7 +11,7 @@ Run a search on a topic familiar enough that you’ll be able to evaluate the re
 Report your qualitative assessment of the quality of the lists, in particular looking at 1) Relevance of results; 2) Missed seminal references; 3) Evident biases (for example, towards books vs papers, famous/less known, old/new); 4) 
 What other tools are offered (summaries, reference formatting, follow-up questions, attribution of content within references).
 
-Also report your final pick (if any)
+Also report your final pick (if any).
 
 ## Submission
 

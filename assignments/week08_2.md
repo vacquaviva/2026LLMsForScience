@@ -1,4 +1,4 @@
-# Assignment 2: AI use policy
+# Assignment: AI use policy
 
 We want to find out what are the current policies for use of AI in our respective fields of research.
 
