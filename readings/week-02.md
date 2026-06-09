@@ -9,17 +9,28 @@ https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/overview
 We did the math on AI’s energy footprint. Here’s the story you haven’t heard.
 
 https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/
-When AI hurts the climate—and when it helps
+
+
+When AI hurts the climate — and when it helps
 
 https://www.patreon.com/posts/when-ai-hurts-it-148885841
+
 
 We’re Doing AI All Wrong. Here’s How to Get It Right
  
 https://www.youtube.com/watch?v=Bl-vPf_IAoA
+
+
 How Hungry is AI? Benchmarking Energy, Water, and Carbon Footprint of LLM Inference
+
+Paper:
+
 https://arxiv.org/pdf/2505.09598
 
+Dashboard:
+
 https://app.powerbi.com/view?r=eyJrIjoiZjVmOTI0MmMtY2U2Mi00ZTE2LTk2MGYtY2ZjNDMzODZkMjlmIiwidCI6IjQyNmQyYThkLTljY2QtNDI1NS04OTNkLTA2ODZhMzJjMTY4ZCIsImMiOjF9
+
 
 ## On responsible AI
 
@@ -35,7 +46,7 @@ The fallacy of AI functionality:
 
 https://dl.acm.org/doi/10.1145/3531146.3533158
 
-And also my own paper, if you are curious ;) 
+
 Ethics in climate AI: From theory to practice
 
 https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000465
