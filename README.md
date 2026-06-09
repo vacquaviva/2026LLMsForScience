@@ -4,6 +4,14 @@ This repository collects course materials for the class, including the [syllabus
 
 I am grateful to the Physics and Earth and Environmental Sciences Departments at the CUNY Graduate Center for letting me run wild with this idea, to the Simons Foundation for financial support, and most of all to the students for being awesome learning companions.
 
+## License
+
+[![Creative Commons License](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+Unless otherwise noted, original course materials in this repository are licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/) (CC BY-NC 4.0).
+
+Third-party readings, linked resources, guest lecture materials, and externally hosted slides retain their original copyrights and licenses. They are included or linked here for course use only.
+
 ## Course Schedule
 
 | Week | Topic | Readings | Slides | Assignments |
