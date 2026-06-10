@@ -29,7 +29,7 @@ Third-party readings, linked resources, guest lecture materials, and externally 
 | 9 | Using AI in proposals, papers, and reviews: state of the art and ideas | [Readings](readings/week-09.md) | [Slides](slides/AI_for_Writing_Policies_Mar30.pdf) | |
 | 10 | Presentations and scientific communication: images, infographics, etc. |  | [Slides](slides/Presentations_April13.pdf) | [Assignment](assignments/week10.md) |
 | 11 | Learning a new topic + improving research ideas with LLM assistance | [Readings](readings/week-11.md) | [Slides 1](slides/Learning_April20.pdf)  [Slides 2](slides/Learning_April22.pdf)  |  |
-| 12a | Guest lecture: [Francisco Villaescusa](https://franciscovillaescusa.github.io/), Denario: an end-to-end research workflow |  | [Denario](https://github.com/AstroPilot-AI/Denario) |  |
+| 12a | Guest lecture: [Francisco Villaescusa](https://franciscovillaescusa.github.io/), Denario: an end-to-end research workflow |  | [Slides][slides/Flatiron_October_2025.pdf] |  |
 | 12b | Guest lecture: [Jared Donohue](https://jareddonohue.com/), using LLMs for a science project + brainstorming final projects | | [Slides](https://jareddonohue.com/res/Donohue-LLMs-for-Science-Guest-Lecture.pdf) | [Final Project Information](assignments/fp.md) |
 | 13a | Guest lecture: [Boris Bolliet](https://borisbolliet.github.io/), autonomous research agents + final project pitches |  | [Slides](https://drive.google.com/file/d/1j-DCJU0KIDQZAywmYDxo33K_Pft6fb3g/view) |  |
 | 13b | Guest lecture: [Zana Bucinca](https://zbucinca.github.io/), human-centric AI + final project check-ins |  | [Slides](slides/05-06-26-CUNY-Bucinca.pdf) |  |
